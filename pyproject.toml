@@ -29,7 +29,7 @@ api = [
 
 [project.scripts]
 trouter = "trouter.cli.main:app"
-trouter-dashboard = "trouter.tui.app:run"
+trouter-dashboard = "trouter.tui.app:run_dashboard"
 
 [tool.setuptools.packages.find]
 where = ["."]
