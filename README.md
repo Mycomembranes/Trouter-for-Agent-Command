@@ -2,7 +2,7 @@
 
 Trouter is a terminal-first agent command center for routing work, tracking session health, and monitoring multi-agent activity from one place.
 
-The design target is the workflow Andrej Karpathy described: a full-screen control surface for active coding agents instead of a loose collection of tmux panes.
+
 
 ## What works
 
