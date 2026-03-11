@@ -1,0 +1,10 @@
+rules:
+  - pattern: "simple|fix|typo"
+    tier: codex-low
+  - pattern: "implement|generate|write"
+    tier: codex-standard
+  - pattern: "complex|refactor|architecture"
+    tier: codex-high
+  - pattern: "critical|security|audit"
+    tier: codex-xhigh
+default_tier: codex-standard

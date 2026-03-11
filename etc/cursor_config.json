@@ -1,0 +1,22 @@
+{
+  "dispatch_mode": "native",
+  "enabled": true,
+  "model_override": "",
+  "default_model": "composer-1.5",
+  "allowed_models": [
+    "composer-1.5",
+    "gpt-5.3-codex",
+    "gpt-5.3-codex-low",
+    "gpt-5.3-codex-low-fast",
+    "gpt-5.3-codex-fast",
+    "gpt-5.3-codex-high",
+    "gpt-5.3-codex-high-fast",
+    "gpt-5.3-codex-xhigh",
+    "gpt-5.3-codex-xhigh-fast"
+  ],
+  "composer_only": false,
+  "composer_augmented": true,
+  "credit_target_monthly": 500,
+  "locked": true,
+  "notes": "Native IDE dispatch only. Fallback: Claude CLI (local). No Cursor API."
+}
