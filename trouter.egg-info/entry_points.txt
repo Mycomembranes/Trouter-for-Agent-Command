@@ -1,0 +1,3 @@
+[console_scripts]
+trouter = trouter.cli.main:app
+trouter-dashboard = trouter.tui.app:run
